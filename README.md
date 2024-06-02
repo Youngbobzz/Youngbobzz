@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nafi Kareem a.k.a Youngbobzz
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science & Analysis also Machine Learning
 - 🌱 I’m currently learning Machine Learning Fundamentals
 
 <!---
